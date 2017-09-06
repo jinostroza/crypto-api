@@ -1,0 +1,4 @@
+TODO LIST Crypto API
+* Estudiar API Crypto Market
+* Analizar lenguaje de programacion
+* Crear sistema de alertas de subida o baja de ETH

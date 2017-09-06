@@ -1,4 +1,4 @@
 TODO LIST Crypto API
 * Estudiar API Crypto Market (https://developers.cryptomkt.com/es/#introduccion)
 * Analizar lenguaje de programacion
-* Crear sistema de alertas de subida o baja de ETH
+* Crear sistema de alertas de subida o baja de ETH asd
